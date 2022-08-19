@@ -1,0 +1,13 @@
+.hero {
+    &__input {
+        padding-top: 10px;
+        padding-left: 25px;
+        border: none;
+        width: 350px;
+    }
+    &__select {
+        padding: 12px;
+        width: 250px;
+        border: none;
+    }
+}

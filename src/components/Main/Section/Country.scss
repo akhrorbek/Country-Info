@@ -1,0 +1,9 @@
+.itemWrap{
+    width: 270px;
+}
+
+.itemTextWrap{
+    &__itemText {
+        font-weight: 700;
+    }
+}
